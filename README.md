@@ -1,1 +1,2 @@
-# Fake-Bank-Currency-Detection-using-ML
+# Fake_Currency_Prediction_ML_Model
+Fake Currency Detection is a task of binary classification in machine learning because bank notes can be either real or fake. If we have enough data on real and fake banknotes, we can use that data to train a model that can classify the new banknotes as real or fake. 
